@@ -1,8 +1,5 @@
-<<p align="center">
-  <img src="https://raw.githubusercontent.com/KULLANICI_ADI/REPO_ADI/main/assets/logo.png" width="220">
-</p>
 <p align="center">
-  Centralized product, stock, and price management system for small and mid-sized markets.
+  <img src="https://raw.githubusercontent.com/KULLANICI_ADI/REPO_ADI/main/assets/logo.png" width="220">
 </p>
 
 
