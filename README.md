@@ -41,3 +41,5 @@ MarketSyncApp provides:
 
 ## 📌 Status
 🚧 Actively under development
+
+
