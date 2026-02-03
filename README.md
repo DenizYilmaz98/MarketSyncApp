@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="assets/logo.png" alt="MarketSync Logo" width="220" />
+<<p align="center">
+  <img src="https://raw.githubusercontent.com/KULLANICI_ADI/REPO_ADI/main/assets/logo.png" width="220">
 </p>
-
-<h1 align="center">MarketSyncApp</h1>
-
 <p align="center">
   Centralized product, stock, and price management system for small and mid-sized markets.
 </p>
