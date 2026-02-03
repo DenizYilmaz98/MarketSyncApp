@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="assets/logo.png" alt="MarketSync Logo" width="220" />
+</p>
+
+<h1 align="center">MarketSyncApp</h1>
+
+<p align="center">
+  Centralized product, stock, and price management system for small and mid-sized markets.
+</p>
+
+
 # MarketSyncApp
 
 MarketSyncApp is a centralized product, stock, and price management system designed for small and mid-sized markets.
