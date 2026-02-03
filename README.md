@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KULLANICI_ADI/REPO_ADI/main/assets/logo.png" width="220">
-</p>
-
-
 # MarketSyncApp
 
 MarketSyncApp is a centralized product, stock, and price management system designed for small and mid-sized markets.
