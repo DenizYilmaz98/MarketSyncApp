@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="MyLogo.png" alt="MarketSync Logo" width="220" />
+  <img src="MyLogo.png" alt="MarketSync Logo" width="220" border-radius="15px" />
 </p>
 
 <h1 align="center">MarketSyncApp</h1>
